@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="1900.7144"
+   height="1645.1428"
    id="svg3530"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -23,8 +23,8 @@
        is_visible="true" />
     <filter
        id="filter4246"
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow">
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
       <feFlood
          id="feFlood4248"
          flood-opacity="0.5"
@@ -38,7 +38,6 @@
          result="composite1" />
       <feGaussianBlur
          id="feGaussianBlur4252"
-         in="composite"
          stdDeviation="2"
          result="blur" />
       <feOffset
@@ -66,8 +65,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="400.02519"
-     inkscape:cy="-376.15816"
+     inkscape:cx="992.88245"
+     inkscape:cy="1084.699"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -75,7 +74,11 @@
      inkscape:window-height="744"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata3535">
     <rdf:RDF>
@@ -84,14 +87,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(592.85726,-525.21934)">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.67865443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3667"
@@ -501,7 +505,7 @@
          sodipodi:role="line"
          x="-377.14282"
          y="1319.6479"
-         id="tspan4220"></tspan><tspan
+         id="tspan4220" /><tspan
          sodipodi:role="line"
          x="-377.14282"
          y="1354.6479"
@@ -521,7 +525,7 @@
          sodipodi:role="line"
          x="-377.14282"
          y="1494.6479"
-         id="tspan4230"></tspan><tspan
+         id="tspan4230" /><tspan
          sodipodi:role="line"
          x="-377.14282"
          y="1529.6479"
@@ -529,7 +533,7 @@
          sodipodi:role="line"
          x="-377.14282"
          y="1564.6479"
-         id="tspan4234"></tspan><tspan
+         id="tspan4234" /><tspan
          sodipodi:role="line"
          x="-377.14282"
          y="1599.6479"
@@ -541,7 +545,7 @@
          sodipodi:role="line"
          x="-377.14282"
          y="1669.6479"
-         id="tspan4238"></tspan><tspan
+         id="tspan4238" /><tspan
          sodipodi:role="line"
          x="-377.14282"
          y="1704.6479"
